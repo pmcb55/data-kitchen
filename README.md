@@ -1,5 +1,5 @@
 # data-kitchen
-The solid databrowser technology as a stand-alone electron app
+The Solid databrowser technology as a stand-alone electron app.
 
 ## To run
 
@@ -21,16 +21,16 @@ See the many other options of electron-packager.
 The goal of this project is to provide a kitchen where the user is cook, and
 the power user is chef.
 
-Live your life in a read-write world of lined data.
+Live your life in a read-write world of Linked Data.
 
-Use all your solid pods, including your local files as your zeroth pod.
-bring in all the stuff in your life shared by friends and colleagues.
-Bring in public data like dbpedia and wikidata and the LOD cloud.
+Use all your solid Pods, including your local files as your zero-th Pod.
+Bring in all the stuff in your life shared by friends and colleagues.
+Bring in public data, like DBPedia, Wikidata and the LOD cloud.
 
 Things to test it on:
 
  - `http://dbpedia.org/resource/John_Seely_Brown`
 
- - a local turtle file on your computer with a URI starting with `file:///`
+ - a local Turtle file on your computer with a URI starting with `file:///`
 
- - your own webid
+ - your own WebID
